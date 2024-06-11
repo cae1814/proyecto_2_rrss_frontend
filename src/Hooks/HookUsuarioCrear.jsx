@@ -7,7 +7,7 @@ export const HookUsuarioCrear = (endPoint) => {
     const [token, setToken] = useState(window.localStorage.getItem('xinfodatax'));
     
     const changeHandler = (event) => {
-        const { name, value } = event.target;
+        const { name, value } = event.target; 
         setDataForm({ ...dataForm, [name]: value })
     }
 

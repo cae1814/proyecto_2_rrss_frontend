@@ -6,16 +6,16 @@ import { UsuarioCrear } from './ComponentScreen/UsuarioCrear';
 import { Usuarios } from './ComponentScreen/Usuarios';
 import { ErrorScreen } from './ComponentScreen/ErrorScreen';
 import { PostForm } from './ComponentScreen/PostForm';
-import { Publicaciones } from './ComponentScreen/Publicaciones';
+import { Publicaciones } from './ComponentScreen/Publicaciones'; 
 import { PublicacionesTodos } from './ComponentScreen/PublicacionesTodos';
 
 export const App = () => {
 
   const [logInfo, setlogInfo] = useState(window.localStorage.getItem('xinfodatax'));
   const [isLog, setIsLog] = useState(logInfo ? true : false);
-  
+   
   const cerrarSesion = () => {
-    try {
+    try { 
       window.localStorage.removeItem('xinfodatax');
       setIsLog(false);
       window.location.href= "http://localhost:5173/";
