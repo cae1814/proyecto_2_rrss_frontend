@@ -1,0 +1,211 @@
+.img_profile {
+    width: 15%;
+    border: 1px black solid;
+}
+
+.table {
+    font-size: 15px;
+    border: 1px solid white;
+    text-align: right;
+}
+
+.container {
+    margin-top: 66px;
+}
+
+.menu-app {
+    margin: auto;
+    overflow: hidden;
+}
+
+.header {
+    position: fixed;
+    z-index: 100;
+    margin-left: 12px;
+}
+
+.form {
+    background-color: #b4b9c640;
+    border: solid 1px black;
+}
+
+.form2 {
+    background-color: #eceef9;
+}
+
+.modal-header{
+    background: #0d6efd;
+    color: white;
+    font-size: 10px;
+    height: 35px;
+}
+
+.modal-footer {
+    height: 54px;
+}
+
+.card-header{
+    background: #0d6efd;
+}
+
+.error-input {
+    color: red;
+    font-size: 13px;
+    font-style: italic;
+    text-align: left;
+}
+
+.nav {
+    background: #0d6efd;
+    margin-top: 7px;
+    margin-bottom: 7px;
+}
+
+.nav-pills .nav-link.active {
+    background-color: white;
+    color: #0d6efd;
+}
+
+.nav-link{
+    color: white;
+    border: white;
+}
+
+.nav-link:hover{
+    background-color: white;
+    color: #0d6efd;
+}
+
+.list-group-item {
+    background-color: #212529 !important;
+    color: white !important;
+}
+
+.list-group-horizontal li {
+    border: none;
+}
+
+.hidden {
+    display: none;
+}
+
+.mb-9 {
+    margin-bottom: 297px;
+}
+
+.font-color-gray {
+    color: gray;
+}
+
+.background-gray {
+    background-color: gray;
+}
+
+.background-white {
+    background-color: white;
+}
+
+
+.font-color-white{
+    color: white;
+}
+
+.font-color-blue{
+    color: #0d6efd;
+}
+
+.show {
+    display: inline;
+}
+
+.table:hover {
+    cursor: pointer;
+}
+
+.fon-size-9 {
+    font-size: 9px;
+}
+
+.fon-size-10 {
+    font-size: 10px;
+}
+
+.fon-size-11 {
+    font-size: 11px;
+}
+
+.fon-size-12 {
+    font-size: 12px;
+}
+
+.fon-size-13 {
+    font-size: 13px;
+}
+
+.fon-size-14 {
+    font-size: 14px;
+}
+
+.fon-size-15 {
+    font-size: 15px;
+}
+
+.fon-size-16 {
+    font-size: 16px;
+}
+
+.fon-size-17 {
+    font-size: 17px;
+}
+
+.fon-size-18 {
+    font-size: 18px;
+}
+
+.fon-size-19 {
+    font-size: 19px;
+}
+
+.fon-size-20 {
+    font-size: 20px;
+}
+
+.fon-size-21 {
+    font-size: 21px;
+}
+
+.fon-size-22 {
+    font-size: 22px;
+}
+
+.fon-size-23 {
+    font-size: 23px;
+}
+
+.fon-size-24 {
+    font-size: 24px;
+}
+
+.fon-size-25 {
+    font-size: 25px;
+}
+
+.fon-size-26 {
+    font-size: 26px;
+}
+
+.fon-size-27 {
+    font-size: 27px;
+}
+
+.fon-size-28 {
+    font-size: 28px;
+}
+
+.fon-size-29 {
+    font-size: 29px;
+}
+
+.fon-size-30 {
+    font-size: 30px;
+}
